@@ -10,4 +10,4 @@
 
 (defpage [:get "/"] []
   (common/layout
-    [:p "차라리 여기서 한글을 쓰는게 낫겠다."]))
+    [:p "get something"]))
